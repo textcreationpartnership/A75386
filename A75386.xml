@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another fight between the two armies of Scotch and English, upon an attempt to take Appleby Castle. More Scots come in from Carlisle and Barwick. And the relieving of Major Generall Lambert by Yorkeshire. Prince Charleses ship taken by Sir Michael Livesey. Captaine Green taken prisoner. All the ordnance and ammunition taken at Marget, neere Sandwich. And a great fight at the storming of Colchester at the mill. With the particulars of the fight. With the copy of a declaration shot into Colchester, by order from the Lord Generall Fairfax.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75386</idno>
+            <idno type="STC">Wing A3261</idno>
+            <idno type="STC">Thomason E456_1</idno>
+            <idno type="STC">ESTC R205024</idno>
+            <idno type="EEBO-CITATION">99864469</idno>
+            <idno type="PROQUEST">99864469</idno>
+            <idno type="VID">162034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162034)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another fight between the two armies of Scotch and English, upon an attempt to take Appleby Castle. More Scots come in from Carlisle and Barwick. And the relieving of Major Generall Lambert by Yorkeshire. Prince Charleses ship taken by Sir Michael Livesey. Captaine Green taken prisoner. All the ordnance and ammunition taken at Marget, neere Sandwich. And a great fight at the storming of Colchester at the mill. With the particulars of the fight. With the copy of a declaration shot into Colchester, by order from the Lord Generall Fairfax.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the generall sataisfaction of moderate men,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M DC XL VIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162034:1" rendition="simple:additions"/>
+            <p>ANOTHER FIGHT between the Two Armies of Scotch and Engliſh, upon an attempt to take <hi>Appleby</hi> Caſtle.</p>
+            <p>More Scots come in from <hi>Carliſle</hi> and <hi>Barwick.</hi> And the Relieving of Major Generall <hi>Lambert</hi> by <hi>Yorkeſhire.</hi>
+            </p>
+            <p>Prince <hi>Charleſes</hi> ſhip taken by Sir <hi>Mi<g ref="char:EOLhyphen"/>chael Liveſey.</hi> Captain <hi>Green</hi> taken priſon<g ref="char:EOLhyphen"/>er. All the Ordnance and Ammunition ta<g ref="char:EOLhyphen"/>ken at <hi>Marget,</hi> neere <hi>Sandwich.</hi> AND A great Fight at the ſtorming of <hi>Colche<g ref="char:EOLhyphen"/>ſter</hi> at the Mill. <hi>With the particulars of the fight.</hi>
+            </p>
+            <p>WITH The Copy of a DECLARATION ſhot into <hi>Colcheſter,</hi> by Order from the Lord Generall <hi>Fairfax.</hi>
+            </p>
+            <p>
+               <add>July. 31</add> Printed for the generall ſatisfaction of moderate men. <hi>MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162034:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:162034:2"/>
+            <head>Another fight between the two Ar<g ref="char:EOLhyphen"/>mies of <hi>Scots</hi> and <hi>Engliſh,</hi> upon an at<g ref="char:EOLhyphen"/>tempt to take <hi>Appleby</hi> Caſtle.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E are now at <hi>Barnard</hi> Caſtle with our Forces, the Enemy continues (ſo farre as we underſtand) about <hi>Appleby,</hi> we have lately had ſome Troopes of horſe, and ſome Companies of Foot come to us out of <hi>Yorkeſhire,</hi> which are ſome addition to our number, but the Ene<g ref="char:EOLhyphen"/>my increaſes much more, for beſides the for<g ref="char:EOLhyphen"/>ces come to them from <hi>Barwick,</hi> they have another great party come out of <hi>Scotland,</hi> by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e way of <hi>Carliſle,</hi> ſo that without a greater <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddition of Forces, we are not likely to deale
+<pb n="2" facs="tcp:162034:3"/> with their great body, but in caſe they come on before ſupplies come to us, wee are reſolved to diſpute our ground with them, and indeed doe not doubt of the bleſſing of God upon us, againſt that treacherous and perfideous people. <hi>Appleby Caſtle</hi> ſtill holds out a<g ref="char:EOLhyphen"/>gainſt them, and are reſolved to hold it out to the laſt, they have done the enemy ſome miſchief, kill<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d divers of their men, the Enemy are active againſt it, offered the Governour, Captain <hi>Atkinſon,</hi> very good tearmes to deliver it up, but he is reſolved to be faith<g ref="char:EOLhyphen"/>full, and keep it againſt them to the utmoſt. We hear the Enemy intends to clear the Country as they goe, and to that purpoſe, have ſent a party to <hi>Cockermouth</hi> Caſtle, to take in that, and likewiſe to the Iſle which was taken in by a party of ours, Commanded by Ma<g ref="char:EOLhyphen"/>jor <hi>White,</hi> preſently after the taking of <hi>Cockermouth,</hi> but wee hope they will finde our men better reſolved then we found theirs, for the keeping out of thoſe pla<g ref="char:EOLhyphen"/>ces. We heare not yet where the Lieutenant Gene<g ref="char:EOLhyphen"/>rall is with his party, but only do underſtand by com<g ref="char:EOLhyphen"/>mon fame, that he is upon his march Northward, ſo that we doe expect to hear from him every day.</p>
+            <closer>
+               <dateline>Barnard Caſtle
+<date>July 25. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>WE have taken a Frigot of Prince <hi>Charleſes</hi> by 12 Souldiers who paſſing along neer the har<g ref="char:EOLhyphen"/>bour at <hi>Marget,</hi> eſpied a ſhip there alone, which they ſuppoſed might be one of the revolted ſhips.</p>
+            <p>Theſe Souldiers tooke with them two ſea-men,
+<pb n="3" facs="tcp:162034:3"/> and with a ſmall boate went towards the ſhip, and called to know if ſhe was one of the Parliaments ſhips, and they had anſwer made from aboard no, they were enemies.</p>
+            <p>Captaine <hi>Greene</hi> the Commander of the ſhip called to the Gunner to make ready to diſcharge upon them if they came neere.</p>
+            <p>The 12 Souldiers with the two ſeamen (notwith<g ref="char:EOLhyphen"/>ſtanding paſſed on to the ſhip, and had no ſhot made againſt them.</p>
+            <p>For when they came neere (divers of the ſeamen belonging to the Frigot being a ſhore) Captain <hi>Greene</hi> when he ſaw the ſeamen in the boate with the Soul<g ref="char:EOLhyphen"/>diers, cryed out to thoſe in the ſhip, to forbeare to oppoſe them, ſaying, <hi>They are freinds, they are friends let them come.</hi>
+            </p>
+            <p>By this means they were boarded and ſeized on the Captaine, with ſome others, and tooke the ſhip with all therein,</p>
+            <p>They have taken Captaine <hi>Greenes</hi> Commiſſion from Prince <hi>Charles,</hi> To <hi>kill,</hi> and <hi>ſlay, ſinke,</hi> and <hi>burn</hi> all that ſhould oppoſe them, with other Commiſſions, and divers papers of concernment, which Sir <hi>Michael Liveſey</hi> hath ſent up to the Parliament.</p>
+            <p>Wee have taken all their Ordnance, Powder and Ammunition, with proviſions, and whatſoever was in the ſhip, and are putting her into a condition to ſerve the Parliament.</p>
+            <p>The other ſeamen (I beleeve are weary of their de<g ref="char:EOLhyphen"/>ſigne) in the other revolted ſhips, and if they can get aſhore, many of them will ſcarce be got aboard again.</p>
+            <closer>
+               <dateline>Sandwich
+<date>July 27. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162034:4"/>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe laſt night about 12 a clocke we gave a very hot Alarum to the Towne by fiering round up<g ref="char:EOLhyphen"/>on them, and in the meane time fired the Middle Mill under their workes, being the onely water mill the E<g ref="char:EOLhyphen"/>nemy had, and cut the ſlace to divert the water, and turne it another way, that of the ſluce tooke good ef<g ref="char:EOLhyphen"/>fects, ſo did the fire at firſt, but afterwards went out, the Enemy took an hot Alarum at firſt upon this bu<g ref="char:EOLhyphen"/>ſineſſe, thinking we had ſtormed, but when they ſaw it was onely an Alarum they fired very little, we had one man drowned, one killed, and ſome others wounded.</p>
+               <p>Late at night alſo the Generall received a Letter from Sir <hi>John Wentworth</hi> and Mr. <hi>Brewſter:</hi> dated neer <hi>Yarmouth</hi> the 24 July 9 at night, ſignifying that the two Aldermen of the Towne had been a board the ſhip where the Prince was, and were ſent backe a<g ref="char:EOLhyphen"/>gaine to the Towne, but what the agreement was they doe not yet know, ſo at preſent they keep out both ſides, and further certified that the ſhips were ſailing towards <hi>Harrich.</hi>
+               </p>
+               <closer>
+                  <dateline>From his Excellencies Tent neere <hi>Colcheſter</hi>
+                     <date>July 6. 1648.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>This incloſed was ſhot with Arrowes into the town laſt night before the ſtorme.</p>
+               </postscript>
+            </div>
+            <div type="enclosure">
+               <head>A DECLARATION ſhot into Colcheſter by an Arrow.</head>
+               <p>THe Lord Generall <hi>Fairfax</hi> hath ſent ſeverall ſummons to the Town, in one of which he offe<g ref="char:EOLhyphen"/>red
+<pb n="5" facs="tcp:162034:4"/> that all private Souldiers, and perſons of that rank, laying down Armes, and ingaging not to bear Armes any more againſt the Parliament, ſhould have liberty and paſſes to goe beyond Sea, with E<g ref="char:EOLhyphen"/>quipage befitting their qualities, ingaging not to return into this Kingdom without leave from the Parliament, and all perſons ſhould have quarter, and be free from plunder or violence of the Souldier This being rejected, and ſcornfully retorted by the Lords, <hi>Norwich, Capel,</hi> and Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas,</hi> The Generall yet offered to make good the ſame conditions, to ſo many as would accept thereof, except thoſe three perſons themſelves, which hath accordingly been performed with advantage to all ſuch as have come off.</p>
+               <p>He hath lately ſummoned them again to ſurren<g ref="char:EOLhyphen"/>der the Town, and the Officers to render themſelves to Mercy, and the reſt only to the future obedience of the Parliament: This alſo hath been rejected with ſcorn. Nevertheleſſe, underſtanding that the Lords, <hi>Goring, Capell,</hi> and Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas,</hi> and ſome Officers of their councell, have con<g ref="char:EOLhyphen"/>cealed theſe Overtures, both from the Souldiers and Towneſmen, and from many of the Officers, and that they have given out, as if they had good conditions
+<pb n="6" facs="tcp:162034:5"/> offered to themſelves, if they would render up the Souldiers, and perceiving that the Souldiers and Towneſmen have been deluded by them, and their chief agents, with daily expectation of relief, while there is none at all towards them. The Generall is willing to make good the ſame conditions, to ſo ma<g ref="char:EOLhyphen"/>ny as ſhall timely accept thereof, except the Lords, <hi>Goring, Capell,</hi> and <hi>Lucas</hi> themſelves, with the Lord <hi>Loughborough,</hi> Coll. <hi>Farr,</hi> Coll: <hi>Law<g ref="char:EOLhyphen"/>rence,</hi> and Cap. <hi>Lynn,</hi> and except all ſuch Soul<g ref="char:EOLhyphen"/>diers as have been in the Army ſince the ſiege, and are gone into the Town.</p>
+               <closer>
+                  <signed>T. FAIRFAX.</signed>
+                  <dateline>
+                     <date>July 25. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
